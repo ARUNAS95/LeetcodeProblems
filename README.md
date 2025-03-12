@@ -10,6 +10,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3790-fruits-into-baskets-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -38,8 +39,17 @@
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3790-fruits-into-baskets-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
