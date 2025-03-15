@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
@@ -25,6 +26,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
@@ -43,6 +45,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0169-majority-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Segment Tree
 |  |
@@ -52,4 +55,12 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
