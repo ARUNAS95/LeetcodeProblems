@@ -63,4 +63,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0851-goat-latin](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0851-goat-latin) |
 <!---LeetCode Topics End-->
