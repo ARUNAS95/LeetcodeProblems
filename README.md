@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0202-happy-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
