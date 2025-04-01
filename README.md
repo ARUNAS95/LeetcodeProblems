@@ -8,6 +8,7 @@
 | [0169-majority-element](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2262-solving-questions-with-brainpower](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2262-solving-questions-with-brainpower](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2262-solving-questions-with-brainpower) |
 <!---LeetCode Topics End-->
