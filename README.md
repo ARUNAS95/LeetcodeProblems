@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0202-happy-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
@@ -93,5 +94,10 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [2262-solving-questions-with-brainpower](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2262-solving-questions-with-brainpower) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
