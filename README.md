@@ -15,6 +15,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
