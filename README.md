@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
@@ -112,5 +113,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
