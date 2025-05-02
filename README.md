@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
@@ -90,6 +91,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0268-missing-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 ## Two Pointers
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
