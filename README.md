@@ -27,6 +27,7 @@
 | [0066-plus-one](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0268-missing-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
@@ -73,6 +74,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0258-add-digits) |
 | [3790-fruits-into-baskets-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
@@ -115,4 +117,8 @@
 | ------- |
 | [0039-combination-sum](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
