@@ -90,6 +90,7 @@
 ## String
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0696-count-binary-substrings) |
 | [0851-goat-latin](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0851-goat-latin) |
 ## Bit Manipulation
 |  |
@@ -103,6 +104,7 @@
 | [0088-merge-sorted-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0283-move-zeroes) |
+| [0696-count-binary-substrings](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0696-count-binary-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
