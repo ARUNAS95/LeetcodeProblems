@@ -13,6 +13,7 @@
 | [0238-product-of-array-except-self](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2262-solving-questions-with-brainpower) |
@@ -48,6 +49,7 @@
 | [0202-happy-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Segment Tree
@@ -85,12 +88,14 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## String
 |  |
@@ -136,4 +141,16 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0002-add-two-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
