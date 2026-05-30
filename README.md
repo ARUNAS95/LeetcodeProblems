@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0078-subsets) |
@@ -46,6 +47,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0202-happy-number) |
