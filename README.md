@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0202-happy-number) |
@@ -65,6 +66,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
@@ -104,6 +106,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0696-count-binary-substrings](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0696-count-binary-substrings) |
 | [0851-goat-latin](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0851-goat-latin) |
 ## Bit Manipulation
