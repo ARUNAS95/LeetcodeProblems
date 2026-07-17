@@ -50,6 +50,7 @@
 | [0001-two-sum](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -164,4 +166,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
