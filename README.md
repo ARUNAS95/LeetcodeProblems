@@ -166,6 +166,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 ## Design
 |  |
 | ------- |
@@ -182,12 +183,18 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
