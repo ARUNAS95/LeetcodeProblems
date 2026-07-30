@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0268-missing-number) |
@@ -53,6 +54,7 @@
 | [0146-lru-cache](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
@@ -101,6 +103,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
