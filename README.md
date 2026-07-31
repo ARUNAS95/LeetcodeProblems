@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0078-subsets) |
@@ -123,6 +124,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0283-move-zeroes) |
