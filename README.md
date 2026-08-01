@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
@@ -36,6 +37,7 @@
 | [0002-add-two-numbers](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0268-missing-number) |
@@ -127,6 +129,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0696-count-binary-substrings) |
