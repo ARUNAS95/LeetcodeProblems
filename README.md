@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0169-majority-element) |
@@ -68,6 +70,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
