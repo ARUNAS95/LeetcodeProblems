@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0078-subsets) |
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0078-subsets) |
 ## Number Theory
 |  |
