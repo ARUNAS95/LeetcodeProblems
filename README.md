@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0066-plus-one) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0202-happy-number) |
