@@ -9,6 +9,7 @@
 | [0031-next-permutation](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0189-rotate-array) |
@@ -74,6 +76,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
