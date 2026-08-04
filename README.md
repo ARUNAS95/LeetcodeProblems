@@ -14,6 +14,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0189-rotate-array) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2262-solving-questions-with-brainpower) |
 ## Memoization
 |  |
