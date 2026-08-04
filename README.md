@@ -11,6 +11,7 @@
 | [0046-permutations](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0078-subsets) |
@@ -117,6 +118,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0217-contains-duplicate) |
@@ -225,4 +227,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0547-number-of-provinces) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
