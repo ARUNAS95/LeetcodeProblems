@@ -175,11 +175,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
