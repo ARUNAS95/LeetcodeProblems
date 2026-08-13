@@ -212,10 +212,12 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
@@ -228,6 +230,7 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -236,4 +239,12 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0056-merge-intervals) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
