@@ -215,11 +215,13 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
@@ -233,6 +235,7 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Graph Theory
 |  |
@@ -245,10 +248,12 @@
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Stack
 |  |
@@ -258,4 +263,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
