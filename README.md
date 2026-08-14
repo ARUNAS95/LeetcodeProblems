@@ -223,6 +223,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0450-delete-node-in-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -255,6 +256,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0450-delete-node-in-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Graph Theory
@@ -289,4 +291,5 @@
 | [0098-validate-binary-search-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
