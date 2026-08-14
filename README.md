@@ -36,6 +36,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
+| [3477-fruits-into-baskets-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3477-fruits-into-baskets-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0268-missing-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3477-fruits-into-baskets-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3477-fruits-into-baskets-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 |  |
@@ -107,11 +109,13 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3477-fruits-into-baskets-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0258-add-digits) |
+| [3477-fruits-into-baskets-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3477-fruits-into-baskets-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
@@ -310,4 +314,8 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0450-delete-node-in-a-bst) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
