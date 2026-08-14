@@ -216,6 +216,7 @@
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -234,6 +235,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0547-number-of-provinces) |
@@ -242,6 +244,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
