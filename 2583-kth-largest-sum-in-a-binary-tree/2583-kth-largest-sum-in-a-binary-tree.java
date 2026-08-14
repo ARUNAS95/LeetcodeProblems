@@ -18,10 +18,11 @@ class Solution {
         if(root == null){
             return -1;
         }
-        List<Long> ans = new ArrayList<>();
+       
         Queue<TreeNode> q = new LinkedList<>();
         q.offer(root);
 
+        PriorityQueue<Long> minHeap = new PriorityQueue<>();
         while(!q.isEmpty()){
             int level = q.size();
             long sum = 0;
@@ -34,10 +35,13 @@ class Solution {
                 if(node.right !=null) q.offer(node.right);
             }
 
-            ans.add(sum);
+            minHeap.offer(sum);
+
+            if(minHeap.size() >k){
+                minHeap.poll();
+            }
         } 
-        Collections.sort(ans);
         
-        return ans.size()<k ? -1 : ans.get(ans.size() - k);
+        return minHeap.size()<k ? -1 : minHeap.peek();
     }
 }
