@@ -17,6 +17,7 @@
 | [0066-plus-one](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0079-word-search) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0079-word-search) |
 | [0696-count-binary-substrings](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0696-count-binary-substrings) |
 | [0851-goat-latin](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0851-goat-latin) |
 ## Bit Manipulation
@@ -178,6 +181,7 @@
 | [0039-combination-sum](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0079-word-search) |
 ## Number Theory
 |  |
 | ------- |
@@ -241,6 +245,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0099-recover-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
