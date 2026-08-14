@@ -46,8 +46,9 @@ class Solution {
                 if(node.right !=null){
                     q.offer(node.right);
                 }
-                 node.next = null;
+                 
             }
+            prev.next = null;
            
         }
 
