@@ -76,6 +76,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0767-reorganize-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0767-reorganize-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Segment Tree
@@ -135,6 +137,7 @@
 | [0217-contains-duplicate](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0767-reorganize-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -144,6 +147,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0079-word-search) |
 | [0696-count-binary-substrings](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0696-count-binary-substrings) |
+| [0767-reorganize-string](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0767-reorganize-string) |
 | [0851-goat-latin](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0851-goat-latin) |
 ## Bit Manipulation
 |  |
@@ -203,6 +207,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -326,4 +331,8 @@
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3477-fruits-into-baskets-ii) |
+## Greedy
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
