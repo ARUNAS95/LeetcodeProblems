@@ -29,6 +29,7 @@
 | [0268-missing-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -76,6 +77,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0767-reorganize-string](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0767-reorganize-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3477-fruits-into-baskets-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
@@ -137,6 +140,7 @@
 | [0217-contains-duplicate](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0767-reorganize-string](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0767-reorganize-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -166,6 +170,7 @@
 | [0189-rotate-array](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/ARUNAS95/LeetcodeProblems/tree/master/0696-count-binary-substrings) |
 ## Dynamic Programming
 |  |
